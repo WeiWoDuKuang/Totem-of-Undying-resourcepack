@@ -1,6 +1,7 @@
 # Totem-of-Undying-resourcepack
-这是一个不死图腾材质包，可以把不死图腾的纹理修改为你的小人抱着不死图腾awa
-支持Minecraft java 1.21.11（其他版本没测试过qwq）
+这是WeiWoDuKuang改的一个不死图腾材质包awa
+支持Minecraft java 1.21.4~26.3（提示不兼容不用管直接加载就行awa）
+非常可爱的材质包awa感谢作者
 删掉了一些材质包显示页面的字
 遵循下面原文的协议
 转载请注明原作者和我，谢谢awa
@@ -8,7 +9,7 @@
 资源包来自：https://newblock.top/tool/resourcepacks/totem/ 支持Minecraft java 1.17~1.21.4（？我也没测试过qwq）
 原作者的链接：https://wwxj.lanzout.com/b048nhaud，密码g4tq
 
-使用方法：打开资源包，在assets\minecraft\textures\item文件夹中把user.png（我的皮肤）改为你自己的皮肤图片并重命名为user.png，然后进入游戏并加载此材质包，就可以把不死图腾的材质替换为抱着不死图腾的你自己awa（具体可以看这个视频，应该是作者的的https://www.bilibili.com/video/BV1Zw411S7DS/?spm_id_from=333.1245.recommend_more_video.0&trackid=web_related_0.router-related-2479604-fjzqj.1788589852071.302）
+使用方法：解压资源包，在assets\minecraft\textures\item文件夹中把user.png（我的皮肤）改为你自己的皮肤图片并重命名为user.png，然后再把它压缩成zip文件，进入游戏并加载此材质包，就可以把不死图腾的材质替换为抱着不死图腾的你自己awa（具体可以看这个视频，应该是作者的的https://www.bilibili.com/video/BV1Zw411S7DS/?spm_id_from=333.1245.recommend_more_video.0&trackid=web_related_0.router-related-2479604-fjzqj.1788589852071.302）
 
 用AI搞的，有bug尽量修吧qwq
 
